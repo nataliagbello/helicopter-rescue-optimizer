@@ -1,6 +1,6 @@
 # helicopter-rescue-optimizer
 
-This project was developed as part of the Algorithms and Data Structures course at Universidade Federal do Rio de Janeiro (UFRJ). The goal was to design an optimization system to maximize the number of lives saved in a helicopter rescue mission given a limited fuel supply. By implementing a Greedy Strategy combined with a custom Merge Sort algorithm ($O(n \log n)$), the system calculates an "Urgency Factor" for each lifeboat to determine the most efficient rescue sequence. The project also features a graphical interface built with Tkinter to visualize the decision-making process and the spatial distribution of the rescue mission.
+This project was developed as part of the Algorithms and Data Structures course at Universidade Federal do Rio de Janeiro (UFRJ). The goal was to design an optimization system to maximize the number of lives saved in a helicopter rescue mission given a limited fuel supply. By implementing a Greedy Strategy combined with a custom Merge Sort algorithm $O(n \log n)$, the system calculates an "Urgency Factor" for each lifeboat to determine the most efficient rescue sequence. The project also features a graphical interface built with Tkinter to visualize the decision-making process and the spatial distribution of the rescue mission.
 
 ## Problem Statement: 
 ### The Helicopter Rescue Scenario: 
